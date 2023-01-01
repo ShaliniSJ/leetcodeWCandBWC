@@ -5,10 +5,7 @@ class Solution:
         pro = 1
         sets = []
         for i in nums:
-            if i%2 == 0:
                 pro =pro *(i)
-            else :
-                pro *= i
         while(pro>1):
             if pro%c == 0:
                 sets.append(c)
