@@ -6,4 +6,4 @@ some solution are done by me
 
 while some are not done by me
 
-#Happy coding
+# Happy coding
